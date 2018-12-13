@@ -14,9 +14,7 @@ Thanks for entrusting Transposit with your source code, your projects, your API 
 
 ### The short version
 
-We only collect the information you choose to give us, and we process it with your consent, or on another legal basis; we only require the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us; we don't sell it to third parties; and we only use it as this Privacy Statement describes. If you're visiting us from the EU, please see our [global privacy practices](#githubs-global-privacy-practices): we comply with the [Privacy Shield framework](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI) and we are compliant with the General Data Protection Regulation (GDPR). No matter where you are, where you live, or what your citizenship is, we provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location.
-
-Of course, the short version doesn't tell you everything, so please read on for more details!
+We only collect the information you choose to give us, and we process it with your consent, or on another legal basis; we only require the minimum amount of personal information that is necessary to fulfill the purpose of your interaction with us; we don't sell it to third parties; and we only use it as this Privacy Statement describes. No matter where you are, where you live, or what your citizenship is, we provide the same standard of privacy protection to all our users around the world, regardless of their country of origin or location.
 
 ### Summary
 
@@ -53,9 +51,9 @@ We collect this information to better understand how our website visitors use Tr
 
 #### Information from users with accounts
 
-If you **create an account**, we require some basic information at the time of account creation. You will authenticate with an external provider such as Google and create your own user name. You also have the option to give us more information if you want to, and this may include "User Personal Information."
+If you **create an account**, we require some basic information at the time of account creation. You will authenticate with an external provider such as Google and create your own username. You also have the option to give us more information if you want to, and this may include "User Personal Information."
 
-"User Personal Information" is any information about one of our users which could, alone or together with other information, personally identify him or her. Information such as a user name, an email address, a real name, and a photograph are examples of “User Personal Information.” User Personal Information includes Personal Data as defined in the General Data Protection Regulation.
+"User Personal Information" is any information about one of our users which could, alone or together with other information, personally identify that user. Information such as a user name, an email address, a real name, and a photograph are examples of “User Personal Information.” User Personal Information includes Personal Data as defined in the General Data Protection Regulation.
 
 User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service.
 
@@ -64,10 +62,10 @@ User Personal Information does not include aggregated, non-personally identifyin
 - We need your User Personal Information to create your account, and to provide the services you request, including to provide the Transposit service, or to respond to support requests.
 - We use your User Personal Information, specifically your user name, to identify you on Transposit.
 - We use it to fill out your profile and share that profile with other users if you ask us to.
-- We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**. Please see our section on [email communication](#how-we-and-others-communicate-with-you) for more information.
+- We will use your email address to communicate with you, if you've said that's okay, **and only for the reasons you’ve said that’s okay**.
 - We may use User Personal Information and other data to make recommendations for you. These recommendations are automated decisions, but they have no legal impact on your rights.
 - We use your User Personal Information for internal purposes, such as to maintain logs for security reasons, for training purposes, and for legal documentation.
-- We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your [user profile](https://github.com/settings/admin).
+- We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first.
 
 ##### Our legal basis for processing information
 
@@ -75,11 +73,11 @@ Under certain international laws (including GDPR), Transposit is required to not
 
 - When you create a Transposit account, you provide your user name and authentication credentials. We require those data elements for you to enter into the Terms of Service agreement with us, and we process those elements on the basis of performing that contract. We also process your user name and email address on other bases. For premium accounts, there will be other data elements we must collect and process on the basis of performing that contract. Transposit does not collect or process a credit card number, but our third-party payment processor does. <!-- - When you fill out the information in your [user profile](https://github.com/settings/profile), you have the option to provide User Personal Information such as your full name, an avatar which may include a photograph, your biography, your location, your company, and a URL to a third party website. You have the option of setting a publicly visible email address here. We process this information on the basis of consent. All of this information is entirely optional, and you have the ability to access, modify, and delete it at any time (while you are not able to delete your email address entirely, you can make it private). -->
 - Generally, the remainder of the processing of personal information we perform is necessary for the purposes of our legitimate interests. For example, for security purposes, we must keep logs of IP addresses that access Transposit, and in order to respond to legal process, we are required to keep records of users who have sent and received DMCA takedown notices.
-- If you would like to request erasure of data we process on the basis of consent or object to our processing of personal information, please use our {{ site.data.variables.contact.contact_privacy }}.
+- If you would like to request erasure of data we process on the basis of consent or object to our processing of personal information, please contact us directly at hello@transposit.com.
 
 #### External API authentication
 
-Transposit allows developers within the Transposit application authoring environment and users of Transposit-hosted applications to authenticate with external APIs by providing their private credenials via OAuth 2.0, username/password, authentication tokens, or other means. We use those credentials only to execute API invocations on behalf of the requesting user, *or* with the express consent of the owner of those credentials. Developers of applications and users of applications are responsible for ensuring the extent of authorization granted. Transposit executes API calls permitted by users in accordance with the code written by application developers. We make no warantee of the use or intent of applications created by third parties within Transposit.
+Transposit allows developers within the Transposit application authoring environment and users of Transposit-hosted applications to authenticate with external APIs by providing their private credenials, via OAuth 2.0, username/password, authentication tokens, or other means. We use those credentials only to execute API invocations on behalf of the requesting user, *or* with the express consent of the owner of those credentials. Developers of applications and users of applications are responsible for ensuring the extent of authorization granted. Transposit executes API calls permitted by users in accordance with the code written by application developers. We make no warantee of the use or intent of applications created by third parties within Transposit.
 
 #### Results of API calls
 
@@ -97,7 +95,7 @@ We do not intentionally collect User Personal Information that is **stored in yo
 
 Transposit employees <!--[do not access private repositories unless required to](/articles/github-terms-of-service/#e-private-repositories)-->do not have access to private applications or their repositories unless required to for security reasons, to assist the repository owner with a support matter, or to maintain the integrity of the service. <!--Our Terms of Service provides [more details](/articles/github-terms-of-service/#e-private-repositories).-->
 
-If your application is public, anyone (including us and unaffiliated third parties) may view its contents. If you have included private or sensitive information in your public repository, such as email addresses or passwords, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your repositories, we may scan our servers for certain tokens or security signatures, or for known active malware.
+If your application is public, anyone (including Transposit and unaffiliated third parties) may view its contents. If you have included private or sensitive information in your public repository, such as email addresses or passwords, that information may be indexed by search engines or used by third parties. In addition, while we do not generally search for content in your repositories, we may scan our servers for certain tokens or security signatures, or for known active malware.
 
 <!--
 Please see more about [User Personal Information in public repositories](#public-information-on-github).
@@ -164,7 +162,7 @@ The email address you have supplied [via your Git commit settings](/articles/set
 
 #### Cookies
 
-Transposit uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Transposit. We also use cookies to identify a device, for security reasons. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use GitHub’s services.
+Transposit uses cookies to make interactions with our service easy and meaningful. We use cookies (and similar technologies, like HTML5 localStorage) to keep you logged in, remember your preferences, and provide information for future development of Transposit. We also use cookies to identify a device, for security reasons. By using our website, you agree that we can place these types of cookies on your computer or device. If you disable your browser or device’s ability to accept cookies, you will not be able to log in or use Transposit.
 
 <!--
 We provide a web page on [cookies and tracking](/articles/github-subprocessors-and-cookies/) that describes the cookies we set, the needs we have for those cookies, and the types of cookies they are (temporary or permanent). It also lists our third party analytics and service providers and details exactly which parts of our website we permit them to track.
@@ -172,15 +170,15 @@ We provide a web page on [cookies and tracking](/articles/github-subprocessors-a
 
 #### Tracking and analytics
 
-We use a number of third party analytics and service providers to help us evaluate our users' use of Transposit; compile statistical reports on activity; and improve our content and website performance. We only use these third party analytics providers on certain areas of our website, and all of them have signed data protection agreements with us that limit the type of personal information they can collect and the purpose for which they can process the information. In addition, we use our own internal analytics software to provide features and improve our content and performance.
+We use a number of third party analytics and service providers to help us evaluate  use of Transposit, compile statistical reports on activity, and improve our content and website performance. We only use these third party analytics providers on certain areas of our website. In addition, we use our own internal analytics software to provide features and improve our content and performance.
 
-We do not currently respond to your browser's Do Not Track signal, and we do not permit third parties other than our analytics and service providers to track GitHub users' activity over time on Transposit. We do not track your online browsing activity on other online services over time.
+We do not currently respond to your browser's Do Not Track signal, and we do not permit third parties other than our analytics and service providers to track user activity over time on Transposit. We do not track your online browsing activity on other online services over time.
 
 ### How Transposit secures your information
 
 Transposit takes all measures reasonably necessary to protect User Personal Information from unauthorized access, alteration, or destruction; maintain data accuracy; and help ensure the appropriate use of User Personal Information.
 
-Transposit enforces a written security information program. Our program:
+Transposit enforces a written information security program. Our program:
 
 - aligns with industry recognized frameworks;  
 - includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our users' data;
@@ -228,9 +226,9 @@ We will use your email address to communicate with you, if you've said that's ok
 By design, the Git version control system associates many actions with a user's email address, such as commit messages. We are not able to change many aspects of the Git system. If you would like your email address to remain private, even when you’re commenting on public repositories, you can [create a private email address in your user profile](https://github.com/settings/emails). You should also [update your local Git configuration to use your private email address](/articles/setting-your-commit-email-address-on-github/). This will not change how we contact you, but it will affect how others see you. We set current users' email address private by default, but legacy GitHub users may need to update their settings. Please see more about email addresses in commit messages [here](/articles/about-commit-email-addresses/).
 -->
 
-Depending on your email settings, Transposit may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent, if you opt in to our list. There's an unsubscribe link located at the bottom of each of the marketing emails we send you. Please note that you can not opt out of receiving important communications from us, such as mails from our Support team or system emails, but you can configure your notifications settings in your profile.
+Depending on your email settings, Transposit may occasionally send notification emails about changes in a repository you’re watching, new features, requests for feedback, important policy changes, or offer customer support. We also send marketing emails, but only with your consent, if you opt in to our list. There's an unsubscribe link located at the bottom of each of the marketing emails we send you. Please note that you can not opt out of receiving important communications from us, such as mails from our Support team or system emails, but you can configure your notification settings in your profile.
 
-Our emails might contain a pixel tag, which is a small, clear image that can tell us whether or not you have opened an email and what your IP address is. We use this pixel tag to make our email more effective for you and to make sure we’re not sending you unwanted email.
+Our emails might contain a mechanism for tracking whether or not you have opened an email and what your IP address is. We may use this mechanism to make our email more effective for you and to make sure we’re not sending you unwanted email.
 
 <!--
 ### Resolving complaints
@@ -261,10 +259,10 @@ We are subject to the jurisdiction of the Federal Trade Commission.
 -->
 
 ### Changes to our Privacy Statement
-Although most changes are likely to be minor, Transposit may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website at least 30 days prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your Transposit account. <!--We will also update our [Site Policy](https://github.com/github/site-policy/) repository, which tracks all changes to this policy. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check our Site Policy repository frequently.-->
+Although most changes are likely to be minor, Transposit may change our Privacy Statement from time to time. We will provide notification to Users of material changes to this Privacy Statement through our Website prior to the change taking effect by posting a notice on our home page or sending email to the primary email address specified in your Transposit account. <!--We will also update our [Site Policy](https://github.com/github/site-policy/) repository, which tracks all changes to this policy. For changes to this Privacy Statement that do not affect your rights, we encourage visitors to check our Site Policy repository frequently.-->
 
 ### License
 This Privacy Statement is licensed under this [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/). It is forked from GitHub's [site-policy repository](https://github.com/github/site-policy).
 
-### Contacting GitHub
-Questions regarding Transposit's Privacy Statement or information practices should be directed to our {{ site.data.variables.contact.contact_privacy }}.
+### Contacting Transposit
+Questions regarding Transposit's Privacy Statement or information practices should be directed to hello@transposit.com.
