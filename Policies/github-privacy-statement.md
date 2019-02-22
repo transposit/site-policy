@@ -184,7 +184,7 @@ Transposit enforces a written information security program. Our program:
 - includes security safeguards reasonably designed to protect the confidentiality, integrity, availability, and resilience of our users' data;
 - is appropriate to the nature, size, and complexity of Transposit business operations;
 - includes incident response and data breach notification processes; and
-- complies with applicable information security related laws and regulations in the geographic regions where GitHub does business.
+- complies with applicable information security related laws and regulations in the geographic regions where Transposit does business.
 
 In the event of a data breach that affects your User Personal Information, we will act promptly to mitigate the impact of a breach and notify any affected users without undue delay.
 
